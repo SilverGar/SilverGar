@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SilverGar
-- 👀 I’m interested in Web Development, cibersecurity and photography
+- 👀 I’m interested in Web Development, cybersecurity and photography
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me silvergarcia@protonmail.com
 
