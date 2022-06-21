@@ -1,5 +1,10 @@
+### Hi i'm
+# Silvestre García
+### Front-end developer
+### Computer science student at Monterrey Institute of Technology and Higher Education
+#### About me:
 - 👋 Hi, I’m @SilverGar
-- 👀 I’m interested in Web Development, cybersecurity and photography
+- 👀 I’m interested in Web Development and cybersecurity.
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me silvergarcia@protonmail.com
 
