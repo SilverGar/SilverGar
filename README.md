@@ -16,7 +16,8 @@
 #### Backend
 - NodeJs
 ### Soft Skills
-- 
+- Verbal Communication
+- Collaboration
 ## My last project:
 ### IPS-Central(Angular)
 [https://github.com/SilverGar/IPS-Central]
