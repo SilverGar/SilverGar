@@ -7,8 +7,11 @@
 - 📫 How to reach me silvergarcia@protonmail.com
 
 ## My last project:
-[https://github.com/SilverGar/IPS-Central](IPS-Central(Angular)).
-[https://github.com/SilverGar/API-IPSCentral](IPS-Centreal(API))
+# IPS-Central(Angular)
+[https://github.com/SilverGar/IPS-Central]
+
+# IPS-Central(API)
+[https://github.com/SilverGar/API-IPSCentral]
 <!---
 SilverGar/SilverGar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
