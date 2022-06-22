@@ -3,9 +3,7 @@
 ### Front-end developer
 ### Computer science student at Monterrey Institute of Technology and Higher Education
 #### About me:
-- 👋 Hi, I’m @SilverGar
-- 👀 I’m interested in Web Development and cybersecurity.
-- 🌱 I’m currently learning Web Development
+- 👋 Hi, I’m @SilverGar, I'm a 21 year old Mexican student at Monterrey Institute of Technology and Higher Education, i'm interested in Web Development and Cybersecurity. Currently learning aboyt Cybersecurity.
 - 📫 How to reach me silvergarcia@protonmail.com
 
 <!---
