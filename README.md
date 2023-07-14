@@ -3,22 +3,11 @@
 ### Professional Cybersecurity Junior
 ### B.S. in Computer science at Monterrey Institute of Technology and Higher Education
 #### About me:
-- Hi, I’m @SilverGar, I'm a 22 year old Mexican student at Monterrey Institute of Technology and Higher Education, i'm interested in Cybersecurity.
+- I'm a Junior Cybersecurity professional with a passion for Pentesting. Currently trying to get experience on the filed and improving my skills through certifications, courses and CTFs.
 - silvergarcia@protonmail.com
 ### Skills
-#### Programming languages
-- C++
-- Javascript
-#### Cybersecurity
-- Linux
-- Network protocols
-- Nmap
-- Metasploit
-
-## My last project:
-### IPS-Central(Angular)
-[https://github.com/SilverGar/IPS-Central]
-
-### IPS-Central(API)
-[https://github.com/SilverGar/API-IPSCentral]
-
+#### Certifications
+- Cisco CyberOps Associate
+- Actively preparing for Security+
+- TryHackMe Jr Penetration Tester
+<script src="https://tryhackme.com/badge/1458441"></script>
