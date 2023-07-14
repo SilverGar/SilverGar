@@ -10,4 +10,4 @@
 - Cisco CyberOps Associate
 - Actively preparing for Security+
 - TryHackMe Jr Penetration Tester
-![THM profile](["https://assets.digitalocean.com/articles/alligator/boo.svg "a title](https://tryhackme-badges.s3.amazonaws.com/bionicarm.png)https://tryhackme-badges.s3.amazonaws.com/bionicarm.png")
+![THM profile](https://tryhackme-badges.s3.amazonaws.com/bionicarm.png)https://tryhackme-badges.s3.amazonaws.com/bionicarm.png")
