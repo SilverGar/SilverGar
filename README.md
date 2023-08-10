@@ -10,5 +10,5 @@
 - CompTIA - Actively preparing for Security+
 - TryHackMe - Jr Penetration Tester
 
-#### TryHackMe profile
-![THM profile](https://tryhackme-badges.s3.amazonaws.com/bionicarm.png)
+[comment]: <> #### TryHackMe profile
+[comment]: <> ![THM profile](https://tryhackme-badges.s3.amazonaws.com/bionicarm.png)
