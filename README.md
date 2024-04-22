@@ -8,5 +8,6 @@
 #### Certifications
 - Cisco - CyberOps Associate
 - CompTIA - Security+
-- TryHackMe - Jr Penetration Tester
+- TCM Academy - Practical Junior Penetration Tester
+- TryHackMe - Offensive Pentesting path
 
