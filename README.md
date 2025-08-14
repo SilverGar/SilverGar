@@ -7,6 +7,7 @@
 - OffSec - OffSec Certified Professional (OSCP)
 - Cisco - CyberOps Associate
 - CompTIA - Security+
+- TCM Security - Practical Web Pentest Associate
 - TCM Security - Practical Junior Penetration Tester
 - TCM Security - Practical Network Penetration Tester
 - TryHackMe - Offensive Pentesting path
